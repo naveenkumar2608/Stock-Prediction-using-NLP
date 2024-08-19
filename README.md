@@ -1,9 +1,9 @@
-Stock Sentiment Analysis Using News Headlines
+**Stock Sentiment Analysis Using News Headlines**
 
-ABSTRACT :
+**ABSTRACT :**
                 Stock Sentiment Analysis Using News Headlines" is a project focused on predicting stock market trends by analyzing the sentiment of news headlines. The project involves collecting news headlines related to specific stocks, processing the text data to determine whether the sentiment is positive, negative, or neutral, and then correlating this sentiment with stock price movements. By leveraging natural language processing (NLP) techniques and machine learning models, the project aims to provide insights into how public sentiment, as reflected in news headlines, can influence stock prices, aiding in investment decision-making.
 
-DATASET :
+**DATASET :**
             
               The data set consist of 25 headlines for each day. The number of data in the dataset are 4102 . It has special characters in it . It is labelled as 0s and 1s. The 1 represent the positive word and 0 represent the negative word.  
 
